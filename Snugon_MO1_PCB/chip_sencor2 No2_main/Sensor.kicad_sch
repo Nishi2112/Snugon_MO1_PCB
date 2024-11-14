@@ -1479,7 +1479,7 @@
     (property "MANUFACTURER_PART_NUMBER" "PMW3360DM-T2QU" (at 210.82 86.36 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "LCSC" "C20612443" (at 210.82 86.36 0)
+    (property "LCSC" "" (at 210.82 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "フィールド4" "Extended" (at 210.82 86.36 0)
