@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "C:\\Users\\B1401\\OneDrive\\Workspace\\仕事\\Snugon_MO1_PCB\\Snugon_MO1_PCB\\Snugon_MO1_PCB\\chip_sencor2 No2_front\\Chip_Sencor2.kicad_sch")
-    (date "2024/11/14 17:57:36")
+    (date "2024/12/26 9:31:23")
     (tool "Eeschema 7.0.5")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -116,7 +116,7 @@
       (footprints
         (fp "RotaryEncoder*"))
       (fields
-        (field (name "Reference") "SW15")
+        (field (name "Reference") "SW12")
         (field (name "Value") "RotaryEncoder")
         (field (name "Footprint") "0:SW-TH_CEN971112R02")
         (field (name "Datasheet") "~"))
@@ -143,7 +143,7 @@
       (node (ref "J4") (pin "1") (pinfunction "Pin_1") (pintype "passive"))
       (node (ref "J4") (pin "10") (pinfunction "Pin_10") (pintype "passive"))
       (node (ref "J4") (pin "9") (pinfunction "Pin_9") (pintype "passive"))
-      (node (ref "SW12") (pin "2") (pinfunction "2") (pintype "passive"))
+      (node (ref "SW12") (pin "3") (pinfunction "3") (pintype "passive"))
       (node (ref "SW2") (pin "1") (pinfunction "1") (pintype "passive"))
       (node (ref "SW3") (pin "1") (pinfunction "1") (pintype "passive"))
       (node (ref "SW4") (pin "1") (pinfunction "1") (pintype "passive"))
@@ -154,7 +154,7 @@
       (node (ref "SW12") (pin "1") (pinfunction "A") (pintype "passive")))
     (net (code "3") (name "RE0B_F")
       (node (ref "J4") (pin "2") (pinfunction "Pin_2") (pintype "passive"))
-      (node (ref "SW12") (pin "3") (pinfunction "3") (pintype "passive")))
+      (node (ref "SW12") (pin "2") (pinfunction "2") (pintype "passive")))
     (net (code "4") (name "SW2_F")
       (node (ref "J4") (pin "8") (pinfunction "Pin_8") (pintype "passive"))
       (node (ref "SW2") (pin "2") (pinfunction "2") (pintype "passive")))
